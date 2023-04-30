@@ -320,6 +320,21 @@ nav .menu li a {
   text-align: center;
 }
 
+.informacion_carreras h2{
+  font-size: 40px;
+  color: var(--color-primario);
+  margin-bottom: 20px;
+}
+
+.informacion_carreras__texto{
+  text-align: left;
+}
+
+.informacion_carreras__texto h3{
+  font-size: 25px;
+  color: var(--color-primario);
+}
+
 .bloque_carreras{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
