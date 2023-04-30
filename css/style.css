@@ -40,6 +40,12 @@ a {
   text-decoration: none;
 }
 
+@media (max-width:768px){
+  h1, h2, h3, h4{
+    word-wrap: break-word;
+  }
+}
+
 header a i,
 header p i {
   color: var(--color-primario);
